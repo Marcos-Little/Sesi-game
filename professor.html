@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Painel do Professor - RPG da Turma</title>
+  <link rel="stylesheet" href="./css/personagem.css">
+  <link rel="stylesheet" href="./css/professor.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🧑‍🏫 Painel do Professor</h1>
+      <button onclick="window.location.href='ranking.html'">🏆 Ranking</button>
+      <div class="acoes-gerais">
+        <input id="valorXp" type="number" placeholder="+XP para todos" />
+        <button id="btnDarXpTodos">Dar XP para todos</button>
+
+        <input id="valorHp" type="number" placeholder="-HP para todos" />
+        <button id="btnTirarHpTodos">Tirar HP de todos</button>
+      </div>
+    </header>
+
+    <section id="listaAlunos" class="lista"></section>
+  </div>
+
+  <script src="./js/professor.js"></script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>🏆 Ranking da Turma</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./css/ranking.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🏆 Ranking da Turma</h1>
+
+      <div class="filtros">
+        <select id="filtroTurma">
+          <option value="GERAL">🌎 Geral</option>
+          <option value="6A">6A</option>
+          <option value="6B">6B</option>
+          <option value="7A">7A</option>
+          <option value="7B">7B</option>
+        </select>
+        <button id="btnVoltar">⬅ Voltar</button>
+      </div>
+    </header>
+
+    <section id="podio" class="podio"></section>
+
+    <div id="listaRanking" class="lista"></div>
+  </div>
+
+  <script src="./js/ranking.js"></script>
+</body>
+</html>

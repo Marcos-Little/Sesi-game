@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Criar Personagem - RPG da Turma</title>
+  <link rel="stylesheet" href="./css/criar-personagem.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+  <div class="criar-container">
+    <h1>🧙 Criar seu Personagem</h1>
+
+    <div class="campo">
+      <label for="classe">Classe</label>
+      <select id="classe">
+        <option value="">Selecione</option>
+        <option value="Guerreiro">⚔️ Guerreiro</option>
+        <option value="Mago">🪄 Mago</option>
+        <option value="Arqueiro">🏹 Arqueiro</option>
+        <option value="Curandeiro">💚 Curandeiro</option>
+      </select>
+    </div>
+
+    <div class="campo">
+      <label for="genero">Gênero</label>
+      <select id="genero">
+        <option value="">Selecione</option>
+        <option value="Masculino">Masculino</option>
+        <option value="Feminino">Feminino</option>
+        <option value="Neutro">Neutro</option>
+      </select>
+    </div>
+
+    <div class="campo">
+      <label for="historia">História do personagem</label>
+      <textarea id="historia" placeholder="Conte a origem do seu herói..."></textarea>
+    </div>
+
+    <button id="btnCriar">✨ Criar Personagem</button>
+  </div>
+
+  <script src="./js/criar-personagem.js"></script>
+</body>
+</html>

@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #020617, #0f172a);
+  color: #e5e7eb;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background: #020617;
+  border-radius: 14px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.4);
+}
+
+.acoes-gerais {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.acoes-gerais input,
+.acoes-gerais button {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+.acoes-gerais button {
+  background: #22c55e;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.acoes-gerais button:hover {
+  background: #16a34a;
+}
+
+.lista {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.card {
+  background: #020617;
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,.35);
+}
+
+.card img {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: 2px solid #22c55e;
+}
+
+.card h3 {
+  margin: 8px 0 4px;
+}
+
+.status {
+  font-size: 14px;
+  opacity: .9;
+}
+
+.acoes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.acoes button {
+  padding: 8px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-xp { background: #22c55e; }
+.btn-hp { background: #ef4444; color: #fff; }
+
+.acoes button:hover { opacity: .9; }
+
+/* 📱 MODO MOBILE */
+@media (max-width: 768px) {
+
+  .container {
+    padding: 12px;
+  }
+
+  header {
+    padding: 12px;
+  }
+
+  .acoes-gerais {
+    grid-template-columns: 1fr 1fr; /* 2 por linha no celular */
+    gap: 10px;
+  }
+
+  .acoes-gerais input,
+  .acoes-gerais button {
+    padding: 12px;
+    font-size: 16px; /* melhora digitação no mobile */
+  }
+
+  .lista {
+    grid-template-columns: 1fr; /* cards em coluna */
+  }
+
+  .card {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 10px;
+    align-items: center;
+  }
+
+  .card img {
+    width: 56px;
+    height: 56px;
+  }
+
+  .card h3 {
+    font-size: 16px;
+    margin: 0;
+  }
+
+  .status {
+    font-size: 13px;
+  }
+
+  .acoes {
+    grid-column: span 2;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 6px;
+  }
+
+  .acoes button {
+    padding: 12px;
+    font-size: 14px;
+  }
+}
+
+/* 📱📱 MODO MOBILE PEQUENO */
+@media (max-width: 420px) {
+
+  .acoes-gerais {
+    grid-template-columns: 1fr;
+  }
+
+  header h1 {
+    font-size: 18px;
+  }
+
+  .acoes button {
+    font-size: 13px;
+  }
+}
+
