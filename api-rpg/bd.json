@@ -567,6 +567,318 @@
       "hp": 100,
       "xp": 0,
       "level": 1
+    },
+    {
+      "id": 39,
+      "nome": "Alice Estefane Rocha Silva",
+      "usuario": "alice.e",
+      "senha": "AERS",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 40,
+      "nome": "Alice Guimaraes Milhomem Grossi",
+      "usuario": "alice.g",
+      "senha": "AGMG",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 41,
+      "nome": "Anne Mendes Galdino",
+      "usuario": "anne.m",
+      "senha": "AMG",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 42,
+      "nome": "Antonia do Prado Santos",
+      "usuario": "antonia.p",
+      "senha": "APS",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 43,
+      "nome": "Arthur Henrique Neves da Silva",
+      "usuario": "arthur.h",
+      "senha": "AHNS",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 44,
+      "nome": "Barbara Sarah Rios Oliveira",
+      "usuario": "barbara.s",
+      "senha": "BSRO",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 45,
+      "nome": "Bernardo Bianchi Maia",
+      "usuario": "bernardo.b",
+      "senha": "BBM",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 46,
+      "nome": "Caio Emanuel Santos de Souza",
+      "usuario": "caio.e",
+      "senha": "CESS",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 47,
+      "nome": "Cauan Pinheiro Henriques Santana de Rezende",
+      "usuario": "cauan.p",
+      "senha": "CPHSR",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 48,
+      "nome": "Clarice de Fatima Ferreira Jorge",
+      "usuario": "clarice.f",
+      "senha": "CFFJ",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 49,
+      "nome": "Davi Luis Silva Moraes",
+      "usuario": "davi.l",
+      "senha": "DLSM",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 50,
+      "nome": "Emilly Gabriele Pereira Andrade",
+      "usuario": "emilly.g",
+      "senha": "EGPA",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 51,
+      "nome": "Francisco Fernovedes Magalhaes Silva",
+      "usuario": "francisco.f",
+      "senha": "FFMS",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 52,
+      "nome": "Heitor Teixeira Costa",
+      "usuario": "heitor.t",
+      "senha": "HTC",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 53,
+      "nome": "Heloisa Macedo Rodrigues",
+      "usuario": "heloisa.m",
+      "senha": "HMR",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 54,
+      "nome": "Henrique Soares Costa",
+      "usuario": "henrique.s",
+      "senha": "HSC",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 55,
+      "nome": "Joao Lucas Noronha dos Santos",
+      "usuario": "joao.l",
+      "senha": "JLNS",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 56,
+      "nome": "Joao Miguel Vieira dos Santos",
+      "usuario": "joao.m",
+      "senha": "JMVS",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 57,
+      "nome": "Joao Vitor Carvalho Guimaraes",
+      "usuario": "joao.v",
+      "senha": "JVCG",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 58,
+      "nome": "Julia Grassi Campos",
+      "usuario": "julia.g",
+      "senha": "JGC",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 59,
+      "nome": "Lara Salles Parreiras",
+      "usuario": "lara.s",
+      "senha": "LSP",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 60,
+      "nome": "Lucas Miranda Moura",
+      "usuario": "lucas.m",
+      "senha": "LMM",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 61,
+      "nome": "Luiz Augusto Alborguetti Cuzzuol Queiroz",
+      "usuario": "luiz.a",
+      "senha": "LAACQ",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 62,
+      "nome": "Marcelo Moreira de Souza",
+      "usuario": "marcelo.m",
+      "senha": "MMS",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 63,
+      "nome": "Maria Eduarda de Carvalho Torres",
+      "usuario": "maria.e",
+      "senha": "MECT",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 64,
+      "nome": "Maria Fernanda Freire Dias",
+      "usuario": "maria.f",
+      "senha": "MFFD",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 65,
+      "nome": "Maria Izabely Nunes de Jesus",
+      "usuario": "maria.i",
+      "senha": "MINJ",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 66,
+      "nome": "Maria Julia Estefane Silva de Oliveira",
+      "usuario": "maria.j",
+      "senha": "MJESO",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 67,
+      "nome": "Miguel Carvalho Dornelas",
+      "usuario": "miguel.c",
+      "senha": "MCD",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 68,
+      "nome": "Miguel Leonardo Rezende Maia",
+      "usuario": "miguel.l",
+      "senha": "MLRM",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 69,
+      "nome": "Miguel Rodrigues Flavio",
+      "usuario": "miguel.r",
+      "senha": "MRF",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 70,
+      "nome": "Mirella Silva Ferreira",
+      "usuario": "mirella.s",
+      "senha": "MSF",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 71,
+      "nome": "Nicolas Guimaraes Alves",
+      "usuario": "nicolas.g",
+      "senha": "NGA",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 72,
+      "nome": "Rafael Dias Gadiol",
+      "usuario": "rafael.d",
+      "senha": "RDG",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 73,
+      "nome": "Samuel da Silva Guedes",
+      "usuario": "samuel.s",
+      "senha": "SSG",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 74,
+      "nome": "Sarah Vieira de Oliveira",
+      "usuario": "sarah.v",
+      "senha": "SVO",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 75,
+      "nome": "Sophia Perolla Formagine hugoline",
+      "usuario": "sophia.p",
+      "senha": "SPFH",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 76,
+      "nome": "Theo de Bellis Silva",
+      "usuario": "theo.b",
+      "senha": "TBS",
+      "turma": "6B",
+      "personagemCriado": false
+    },
+    {
+      "id": 77,
+      "nome": "Vinicius Diniz Ribeiro",
+      "usuario": "vinicius.d",
+      "senha": "VDR",
+      "turma": "6B",
+      "personagemCriado": false
     }
   ],
   "professores": [
