@@ -1,4 +1,4 @@
-const API_URL = "https://659fce55-7f63-4951-b3c5-f9b73ddb10a0-00-2tlr249v91xk0.picard.replit.dev";
+const API_URL = "https://api-rpg-yeo4.onrender.com";
 
 const listaAlunos = document.getElementById("listaAlunos");
 const btnDarXpTodos = document.getElementById("btnDarXpTodos");
