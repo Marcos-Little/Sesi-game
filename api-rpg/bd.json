@@ -1,0 +1,22 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "João",
+      "usuario": "joao",
+      "senha": "123",
+      "turma": "6A",
+      "personagemCriado": false,
+      "hp": 100,
+      "xp": 0,
+      "level": 1
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "usuario": "prof",
+      "senha": "123"
+    }
+  ]
+}
